@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "standard": "docs/SENIOR-STANDARD.md",
+  "roles": [
+    {
+      "role": "marketing-team/agents/marketing-seo-specialist.md",
+      "primary_skill": "bess-seo-audit",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-content-creator.md",
+      "primary_skill": "bess-technical-content",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-linkedin-content-creator.md",
+      "primary_skill": "bess-linkedin-editorial",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-ai-citation-strategist.md",
+      "primary_skill": "bess-ai-visibility",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/product-trend-researcher.md",
+      "primary_skill": "bess-market-research",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/support-analytics-reporter.md",
+      "primary_skill": "bess-funnel-analytics",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-aeo-foundations.md",
+      "primary_skill": "bess-machine-readable-content",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/paid-media-ppc-strategist.md",
+      "primary_skill": "bess-paid-search",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/paid-media-creative-strategist.md",
+      "primary_skill": "bess-ad-creative",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-email-strategist.md",
+      "primary_skill": "bess-lifecycle-email",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-pr-communications-manager.md",
+      "primary_skill": "bess-pr-communications",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/sales-outbound-strategist.md",
+      "primary_skill": "bess-account-research",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-growth-hacker.md",
+      "primary_skill": "bess-growth-experiments",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/support-legal-compliance-checker.md",
+      "primary_skill": "bess-compliance-triage",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/testing-reality-checker.md",
+      "primary_skill": "bess-quality-review",
+      "supporting_skills": [
+        "bess-evidence",
+        "bess-learning"
+      ],
+      "status": "initial_unproven"
+    }
+  ]
+}

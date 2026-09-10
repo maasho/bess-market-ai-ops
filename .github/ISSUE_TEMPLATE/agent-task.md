@@ -21,3 +21,8 @@ Relevante Quellen, Dateien, erlaubte Änderungen und Ergebnisablage:
 
 ## Übergabe
 Reviewer und nächste Handlung:
+
+## Skills
+Primärskill gemäß marketing-team/skill-map.json; weitere Skills nur bei passendem Bedarf:
+
+Relevante validierte Erkenntnisse aus memory/INDEX.md:

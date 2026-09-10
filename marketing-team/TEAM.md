@@ -15,3 +15,7 @@ Ziel: qualifizierte BESS-Projekte in Deutschland und DACH gewinnen. Die Rollen s
 Bei Bedarf: AEO Foundations, PPC, Creative Strategy, E-Mail, PR, Outbound, Growth und Legal Compliance. Die zugehörigen Profile liegen ebenfalls in agents/.
 
 Der Owner priorisiert Aufgaben und entscheidet über Übernahme und Veröffentlichung. Die Übergaben sind in [GITHUB-START.md](GITHUB-START.md) beschrieben. Kein Profil erzeugt selbst einen Zeitplan oder einen Kontozugriff.
+
+## Kompetenz und Weiterentwicklung
+
+Für jede der 15 Rollen gilt der [Senior-Standard](../docs/SENIOR-STANDARD.md). Die vollständige Skill-Zuordnung steht im [Katalog](../docs/SKILLS.md). Alle Rollen nutzen dokumentiertes [Projektwissen](../memory/INDEX.md), sobald passende Erkenntnisse validiert sind.

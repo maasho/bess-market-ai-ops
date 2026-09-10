@@ -19,3 +19,9 @@
 
 ## Nächste Übergabe
 [Empfängerrolle und konkreter nächster Auftrag]
+
+## Verwendete Skills und Erkenntnisse
+- Skill-Namen und Stand/Commit:
+- Relevante validierte Erkenntnisse aus memory/INDEX.md:
+- Neue substanzielle Erkenntnis: [Link zum Kandidaten oder keine neue Erkenntnis]
+- Prüfungsart: [Selbstprüfung / unabhängige Prüfung; tatsächlichen Prüfer nennen]

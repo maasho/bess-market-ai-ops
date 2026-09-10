@@ -18,3 +18,11 @@ Die Rollen und Arbeitsvorlagen bilden die erste Grundlage. Automatische Läufe, 
 ## Herkunft
 
 Die 15 Fachrollen stammen aus [Agency Agents](https://github.com/msitarzewski/agency-agents). Ihre MIT-Lizenz liegt unter [marketing-team/agents/LICENSE](marketing-team/agents/LICENSE). Die BESS-Market-spezifische Aufgabenverteilung steht in TEAM.md.
+
+## Senior-Profile, Skills und Lernen
+
+Alle 15 Rollen sind mit einem eigenen Fachskill verknüpft; Quellenprüfung und Lernen ergänzen sie als zwei gemeinsame Skills. Siehe [Skill-Katalog](docs/SKILLS.md), [Senior-Standard](docs/SENIOR-STANDARD.md) und [Projektwissen](memory/INDEX.md).
+
+Das Zielniveau entspricht 20 Jahren Berufserfahrung, ohne eine reale Biografie zu behaupten. Erkenntnisse werden aus tatsächlichen Aufgaben geprüft und versioniert übernommen. Automatische Läufe und Modelltraining sind damit nicht eingerichtet.
+
+Struktur prüfen: python scripts/validate_skills.py. Die fachlichen Prüffälle unter docs/skill-eval-cases.json sind vorbereitet und noch nicht ausgeführt.
