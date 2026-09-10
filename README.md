@@ -26,3 +26,7 @@ Alle 15 Rollen sind mit einem eigenen Fachskill verknüpft; Quellenprüfung und 
 Das Zielniveau entspricht 20 Jahren Berufserfahrung, ohne eine reale Biografie zu behaupten. Erkenntnisse werden aus tatsächlichen Aufgaben geprüft und versioniert übernommen. Automatische Läufe und Modelltraining sind damit nicht eingerichtet.
 
 Struktur prüfen: python scripts/validate_skills.py. Die fachlichen Prüffälle unter docs/skill-eval-cases.json sind vorbereitet und noch nicht ausgeführt.
+
+## Weitere Agenten und Skills
+
+Die [GitHub-Recherche für BESS-Market und Voltage Africa](docs/REPOSITORY-RESEARCH.md) bewertet gezielte Ergänzungen für Conversion, UX, Webtests und Datenbanken. Die externen Kandidaten sind noch nicht installiert.
