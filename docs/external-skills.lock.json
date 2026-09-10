@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "cro",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "path": "skills/cro",
+      "installed_at": "2026-09-10",
+      "scope": "repository",
+      "local_modifications": [],
+      "files": {
+        "evals/evals.json": "62f3003602836e2b49d797ca582e7703629a6b07b131eb77b51b2bb39fe65775",
+        "LICENSE": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+        "references/experiments.md": "bbcc356c0af36cfaa4556bf9e929deac30c65cafb37f909d7c51d4777fe254ca",
+        "references/form.md": "e3115b0fdfb3968915b8e3acdc32a6e5f1d2c6a335ebbed25bee9b601ec573d7",
+        "SKILL.md": "199016bec3b44bc6a7507b111b6028f6550cc852cd54c7d0df789f15d6f814c4"
+      }
+    },
+    {
+      "name": "web-design-guidelines",
+      "repository": "vercel-labs/agent-skills",
+      "commit": "063bee94c3f4df8453406c830b0a7df0f2860278",
+      "path": "skills/web-design-guidelines",
+      "installed_at": "2026-09-10",
+      "scope": "repository",
+      "local_modifications": [],
+      "files": {
+        "LICENSE-NOTICE.md": "96d9480b230981a7ef787ac3c6a956028fa4cf5424315f744aad0ae9de6ef174",
+        "SKILL.md": "f4647ca866a3accf763777f83e7682954f0187cd6bea7eea0399796652414e8f",
+        "UPSTREAM-README.md": "7c02f64b08fc6c4eef03c01d64f3e2ed478193ccfcbd14edba379abe23304651"
+      },
+      "remote_dependency": {
+        "repository": "vercel-labs/web-interface-guidelines",
+        "path": "command.md",
+        "reviewed_commit": "e3d624baaf29dc1fc645aff3e38f03e564d2d6b1",
+        "policy": "Upstream skill fetches current guidelines when used; record the retrieved revision in each review."
+      }
+    },
+    {
+      "name": "webapp-testing",
+      "repository": "anthropics/skills",
+      "commit": "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f",
+      "path": "skills/webapp-testing",
+      "installed_at": "2026-09-10",
+      "scope": "repository",
+      "local_modifications": [],
+      "files": {
+        "examples/console_logging.py": "ea46877289acb82da7e7ce59d0bc37c8977cd57e2a006d0c88d7a1c625bf95da",
+        "examples/element_discovery.py": "d63c89604a22f8845d724e95dda45db49b1bf57c25ce0a83afbb7b8da3d402f0",
+        "examples/static_html_automation.py": "9d533aafb875ee3ab8b8ebf8f5b9003ac8d999da3d09b285cce252e623140064",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362",
+        "scripts/with_server.py": "b0dcf4918935b795f4eda9821579b9902119235ff4447f687a30286e7d0925fd",
+        "SKILL.md": "51b7349e77ec63b7744a6f63647e7566a0b4d2e301121cc10e8c2113af6556a2"
+      }
+    }
+  ]
+}

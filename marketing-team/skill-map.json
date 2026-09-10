@@ -115,7 +115,8 @@
       "primary_skill": "bess-growth-experiments",
       "supporting_skills": [
         "bess-evidence",
-        "bess-learning"
+        "bess-learning",
+        "cro"
       ],
       "status": "initial_unproven"
     },
@@ -133,7 +134,9 @@
       "primary_skill": "bess-quality-review",
       "supporting_skills": [
         "bess-evidence",
-        "bess-learning"
+        "bess-learning",
+        "webapp-testing",
+        "web-design-guidelines"
       ],
       "status": "initial_unproven"
     }

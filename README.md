@@ -30,3 +30,7 @@ Struktur prüfen: python scripts/validate_skills.py. Die fachlichen Prüffälle 
 ## Weitere Agenten und Skills
 
 Die [GitHub-Recherche für BESS-Market und Voltage Africa](docs/REPOSITORY-RESEARCH.md) bewertet gezielte Ergänzungen für Conversion, UX, Webtests und Datenbanken. Die externen Kandidaten sind noch nicht installiert.
+
+## Externe Skills installiert
+
+Aktueller Installationsstand: [Pakete und Zuordnung](docs/INSTALLED-SKILLS.md). Der frühere Recherchebericht beschreibt den Auswahlstand vor der Installation.
