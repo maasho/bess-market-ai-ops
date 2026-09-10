@@ -1,0 +1,23 @@
+---
+name: Agenten-Auftrag
+about: Eine klar abgegrenzte Aufgabe an eine BESS-Market-Fachrolle
+title: "[Agent] "
+---
+
+## Ziel
+Welches konkrete Ergebnis wird gebraucht?
+
+## Rolle
+Datei aus marketing-team/agents/:
+
+## Eingaben und Umfang
+Relevante Quellen, Dateien, erlaubte Änderungen und Ergebnisablage:
+
+## Abnahme
+- [ ] Ergebnis erfüllt das Ziel.
+- [ ] Tatsachen sind belegt; Datenlücken sind benannt.
+- [ ] Relevante Prüfungen sind dokumentiert.
+- [ ] Bericht oder Pull Request ist zur Prüfung verlinkt.
+
+## Übergabe
+Reviewer und nächste Handlung:
